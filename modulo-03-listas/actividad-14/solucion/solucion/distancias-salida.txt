@@ -1,0 +1,4 @@
+[40, 12, 80, 25]
+[12, 25, 40, 80]
+Distancia más cercana: 12
+Distancia más lejana: 80
